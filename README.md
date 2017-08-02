@@ -1,9 +1,9 @@
-# tmdb cache server Espaniol
+# tmdb cache server
 
-# Installation
+# Instalacion
 Instalar git https://git-scm.com/downloads
 
-## For Linux and Mac
+## Para Linux y Mac
 Instalar nvm (Node Version Manager)
 https://github.com/creationix/nvm
 
