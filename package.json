@@ -7,6 +7,7 @@
     "body-parser": "~1.15.0",
     "composable-middleware": "^0.3.0",
     "compression": "~1.6.1",
+    "connect-livereload": "^0.6.0",
     "cookie-parser": "~1.4.1",
     "ejs": "~2.4.1",
     "errorhandler": "~1.4.3",
@@ -23,7 +24,6 @@
     "xml": "^1.0.1"
   },
   "devDependencies": {
-
     "istanbul": "^0.4.0",
     "jshint-stylish": "~2.1.0",
     "lolex": "^1.4.0",
